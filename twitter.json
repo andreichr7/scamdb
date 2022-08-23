@@ -2137,6 +2137,83 @@
             "title":"Jarritos.eth"
          },
          "fake":null
-      }
+      },
+      {
+         "original":{
+            "username":"GosuTools_",
+            "title":"GosuTools"
+         },
+         "fake":null
+      },
+            {
+         "original":{
+            "username":"Stakeland",
+            "title":"Stakeland"
+         },
+         "fake":null
+      },
+            {
+         "original":{
+            "username":"petsland",
+            "title":"Petsland"
+         },
+         "fake":null
+      },
+            {
+         "original":{
+            "username":"vaultbycnn",
+            "title":"Vault by CNN"
+         },
+         "fake":["Vault by CNN Support Team"]
+      },
+      {
+         "original":{
+            "username":"ezu_xyz",
+            "title":"ezu"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"MetaDiscoverer",
+            "title":"The Meta Discoverer"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"TitanforgeNFT",
+            "title":"⚒Titanforge⚒"
+         },
+         "fake":null
+      },
+      {
+         "original":{
+            "username":"AviumWorld",
+            "title":"Avium"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"AbstractRealm_",
+            "title":"Abstract Realm | FREE MINT"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"TheOriginsNFT",
+            "title":"Origin"
+         },
+         "fake":null
+      },
+       {
+         "original":{
+            "username":"TheUNDEFYNED",
+            "title":"UNDEFYNED"
+         },
+         "fake":null
+      },
    ]
 }
